@@ -20,22 +20,22 @@ Date of finished: 09.11.2023 <br>
 1. Установлен Docker, установлен и запущен Minikube; <br>
 ![image](images/picture1.png)
 2. Скачан образ контейнера; <br>
-![image](lab1/images/picture2.png)
+![image](images/picture2.png)
 3. Запущен контейнер из скачанного образа; <br>
-![image](lab1/images/picture3.png)
+![image](images/picture3.png)
 4. Создан и запущен "под"; <br>
-![image](lab1/images/picture4.png)
+![image](images/picture4.png)
 5. Создана служба (Service) для "пода"; <br>
-![image](lab1/images/picture5.png)
+![image](images/picture5.png)
 6. Задано прямое соединение портов между локальным портом и портом службы; <br>
-![image](lab1/images/picture6.png)
+![image](images/picture6.png)
 7. Для аутентификации использовался токен, найденный в логах; <br>
-![image](lab1/images/picture7.png)
+![image](images/picture7.png)
 8. Полученный результат; <br>
-![image](lab1/images/picture8.png)
+![image](images/picture8.png)
 9. Сгенерирован yaml файл для развертывания "пода"; <br>
-![image](lab1/images/picture9.png)
+![image](images/picture9.png)
 
 ### Вывод
 В результате выполнения работы были изучены инструменты Docker, Minikube, был развернут "под" и получен yaml файл для его развертывания.
-![image](lab1/images/picture10.png)
+![image](images/picture10.png)
