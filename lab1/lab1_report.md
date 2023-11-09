@@ -18,7 +18,7 @@ Date of finished: 09.11.2023 <br>
 ### Ход работы
 В процессе выполнения работы были выполнены следующие шаги:
 1. Установлен Docker, установлен и запущен Minikube; <br>
-![image](lab1/images/picture1.png)
+![image](images/picture1.png)
 2. Скачан образ контейнера; <br>
 ![image](lab1/images/picture2.png)
 3. Запущен контейнер из скачанного образа; <br>
